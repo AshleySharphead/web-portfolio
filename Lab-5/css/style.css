@@ -45,7 +45,9 @@ p {
 
 .card {
     float: left;
-    padding: 6rem;
+    padding: 4rem;
+    margin-left: 1.5%;
+
 }
 
 .about {
