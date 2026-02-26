@@ -1,0 +1,37 @@
+@charset "utf-8";
+
+/* Ashley Sharphead, Lab-6, file creation date 2026-02-25 */
+
+h1 {
+    width: 150px;
+    margin: auto;
+    border: dotted blue;
+}
+
+#one {
+    padding: 50px;
+    background-color: lightblue;
+}
+
+#two {
+    width: 160px;
+    margin: 30px;
+    border: dotted blue;
+}
+
+#three {
+    border: dashed red;
+    text-align: right;
+    margin-right: 200px;
+    margin-bottom: 0;
+}
+
+#four {
+    width: 600px;
+    margin: auto;
+    border: 5px solid black;
+}
+
+img {
+    width: 600px;
+}

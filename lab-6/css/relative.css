@@ -1,0 +1,45 @@
+@charset "utf-8";
+/* Ashley Sharphead, Lab-6, file creation date 2026-02-25 */
+
+#one {
+    width: 60%;
+    text-align: right;
+    background-color: lightblue;
+    margin: 0px;
+}
+
+#two {
+    width: 25%;
+    /* padding: 30px 30px 0 0; */
+    padding: 4% 4% 0 0;
+    border: 1vh solid black;
+    margin: 0px;
+}
+
+body span {
+    color: green;
+    font-weight: bold;
+    font-style: italic;
+}
+
+#three {
+    /* margin: 50px 50px 0 0; */
+    margin: 6.5% 6.5% 0 0;
+    border: 1vh solid blue;
+}
+
+#four {
+    /* margin: 0 0 50px 50px; */
+    margin: 0 0 6.5% 6.5%;
+    border: 1vh solid black;
+}
+
+#five {
+    width: 80%;
+    margin: auto;
+    border: 1vh solid black;
+
+}
+p > img {
+    width: 100%;
+}
